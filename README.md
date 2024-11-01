@@ -2,6 +2,12 @@
 
 ## Description
 
+Before opening the file, Please read:
+There are a total of 8 cameras following the vessel. (3 are the examples and 5 are the stage cameras that we need for exercise 2)
+Whenever switch to the camera, please press "R" to switch 
+Whenever show the box of the camera, please press "F" to show the camera box
+Please use the test many times as needed. 
+
 Your goal is to create several swappable camera control scripts for a top-down terraforming simulator.
 
 Here is the document covered in class that details the type of camera controllers you are to implement for this exercise:  
